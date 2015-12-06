@@ -34,3 +34,8 @@ int main()
 	else
 	{
 	  cout<<"Yes";
+	}
+     cout<<endl;
+   }
+  return 0;
+ } 
